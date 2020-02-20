@@ -4,8 +4,8 @@
 
 ---
 
-@snap[west span-55]
-## Your Instructor
+@snap[west span-65]
+## Who am I?
 
 Dan Roberts
 
@@ -14,6 +14,6 @@ Dan Roberts
 Before that: Senior Engineer at EMC Isilon (now Dell)
 @snapend
 
-@snap[east span-45]
+@snap[east span-35]
 ![dan profile](assets/images/dan-flowers.png)
 @snapend
