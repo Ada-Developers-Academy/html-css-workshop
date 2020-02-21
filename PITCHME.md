@@ -1,6 +1,6 @@
 # HTML + CSS
 
-## Pre-Ada Workshop
+### Pre-Ada Workshop
 
 ---
 
