@@ -7,13 +7,15 @@
 # Theme Template
 # Doc: https://gitpitch.com/docs/themes/default
 #
+
+# Ada palette: https://drive.google.com/file/d/1V-WVd9LMHrPlJzSK55he8GqytENIpmvG/view
 theme            : template
 
-theme-background : [ "#000000" ]
-theme-headline   : [ "Montserrat", "#FBD95E", "none", "#FFFFFF", "100", "120", "15" ]
-theme-byline     : [ "Raleway", "#FFFFFF", "none", "#FBD95E", "100", "110", "15" ]
-theme-text       : [ "Ubuntu", "#FFFFFF", "none", "#A0C865", "100", "100", "15" ]
-theme-links      : [ "#F1C40F", "#5254F7" ]
+theme-background : [ "#ffffff" ]
+theme-headline   : [ "Montserrat", "#12A3C2", "none", "#E61E5F", "100", "120", "15" ]
+theme-byline     : [ "Open Sans", "#17385E", "none", "#E61E5F", "100", "110", "15" ]
+theme-text       : [ "Open Sans", "#17385E", "none", "#E61E5F", "100", "100", "15" ]
+theme-links      : [ "#EF654A", "#E61E5F" ]
 theme-code       : [ "Source Code Pro", "100", "120" ]
 theme-controls   : [ "#C0C0C0" ]
 theme-margins    : [ "0", "15px" ]
@@ -36,7 +38,7 @@ highlight : tomorrow
 # https://gitpitch.com/docs/settings/logo
 #
 logo : assets/images/logo.png
-logo-position : bottom-left
+logo-position : top-left
 
 #
 # Layout Setting
@@ -55,12 +57,4 @@ footnote-position : bottom-right
 # Published Setting
 # Doc: https://gitpitch.com/docs/settings/published
 #
-published : true
-
-#
-# Twitter Card Settings [Pro Only]
-# Doc: https://gitpitch.com/docs/settings/twitter-card
-#
-title : "GitPitch In 60 Seconds"
-description : "A short tutorial introducing GitPitch Markdown Presentations for Developers."
-thumbnail : https://gitpitch.com/gpimg/tutorial-thumb.png
+# published : true
