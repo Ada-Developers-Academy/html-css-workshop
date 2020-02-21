@@ -36,7 +36,7 @@ highlight : tomorrow
 # https://gitpitch.com/docs/settings/logo
 #
 logo : assets/images/logo.png
-logo-position : top-left
+logo-position : bottom-left
 
 #
 # Layout Setting
@@ -48,7 +48,8 @@ layout : center
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "GitPitch - The Fastest Way From Idea To Presentation"
+footnote : "Pre-Ada Workshop: HTML/CSS"
+footnote-position : bottom-right
 
 #
 # Published Setting
