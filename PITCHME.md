@@ -25,7 +25,7 @@
 ## Ada's Approach to Education
 
 - Learning to learn
-  - "I don't know, but I know how to find out"
+    Goal: **"I don't know, but I know how to find out"**
 - Positive, collaborative, safe, and inclusive
 - Focused on concrete, applicable skills
 - Student-centered
@@ -40,26 +40,48 @@
 
 ---
 
+## Ground Rules
+
+- Respect each other
+- Step up / step back
+- Speak up if you need something
+- If you need to step out, please do
+
+---
+
 ## Format
 
-- 9:00 - 12:30
-- 20-minute modules
-- 10-minute break every 2 modules
+9:00 - 12:30
+
+20-minute activity modules
+
+10-minute break every 2 modules
 
 ---
 
 ## Agenda
 
-1. Intro
-1. HTML Setup
-1. Break
-1. Tags and Attributes
-1. CSS Setup
-1. Break
-1. Styling
-1. Selectors
-1. Project Time (take a break!)
-1. Deployment
+9:00 - Intro
+
+9:20 - HTML Setup
+
+9:40 - Break
+
+9:50 - Tags and Attributes
+
+10:10 - CSS Setup
+
+10:30 - Break
+
+10:40 - Styling
+
+11:00 - Selectors
+
+11:20 - Project Time (take a break!)
+
+12:10 - Deployment
+
+12:30 - Done!
 
 ---
 
@@ -70,6 +92,7 @@
 - [dan@adadev.org](mailto:dan@adadev.org)
 - Started at Ada with C6 in 2016, have worn many hats
 - Background in operating systems and networking
+- From Seattle, WA
 - Trombone, Sousaphone, Keyboard
 @snapend
 
@@ -89,3 +112,8 @@
 
 ## Our Volunteers
 
+- Name, pronouns
+- Cohort
+- What you're doing now
+- Where you're from
+- Something you love that has nothing to do with computers
