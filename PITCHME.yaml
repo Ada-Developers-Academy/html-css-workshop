@@ -19,7 +19,7 @@ theme-links      : [ "#EF654A", "#E61E5F" ]
 theme-code       : [ "Source Code Pro", "100", "120" ]
 theme-controls   : [ "#C0C0C0" ]
 theme-margins    : [ "0", "15px" ]
-layout           : left
+layout           : center-left
 
 #
 # Highlight Setting
