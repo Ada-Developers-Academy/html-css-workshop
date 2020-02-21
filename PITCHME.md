@@ -1,6 +1,6 @@
 # HTML + CSS
 
-## Ada Developers Academy
+## Pre-Ada Workshop
 
 ---
 
