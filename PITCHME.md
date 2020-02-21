@@ -6,15 +6,15 @@
 
 ## Objectives
 
-- Boost your technical skills and help your Ada application
-- Introduce Ada's approach to education
-- Get excited!
+- Boost your **technical skills** and help your Ada application
+- Introduce **Ada's approach** to education
+- **Get excited!**
 
 ---
 
 ## This is not part of your application
 
-- Being here does not increase your chances of being accepted
+- Being here does **not** increase your chances of being accepted
 - I will not report back to the admissions team
 - (but, don't be a jerk)
 
