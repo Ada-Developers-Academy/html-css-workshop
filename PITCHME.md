@@ -22,9 +22,10 @@
 
 ---
 
-## Ada's Approach to Education
+## Ada's Approach
 
 - Learning to learn
+
     Goal: **"I don't know, but I know how to find out"**
 - Positive, collaborative, safe, and inclusive
 - Focused on concrete, applicable skills
@@ -65,23 +66,23 @@
 
 9:20 - HTML Setup
 
-9:40 - Break
+**9:40 - Break**
 
 9:50 - Tags and Attributes
 
 10:10 - CSS Setup
 
-10:30 - Break
+**10:30 - Break**
 
 10:40 - Styling
 
 11:00 - Selectors
 
-11:20 - Project Time (take a break!)
+11:20 - Project Time
 
 12:10 - Deployment
 
-12:30 - Done!
+**12:30 - Done!**
 
 ---
 
@@ -92,8 +93,7 @@
 - [dan@adadev.org](mailto:dan@adadev.org)
 - Started at Ada with C6 in 2016, have worn many hats
 - Background in operating systems and networking
-- From Seattle, WA
-- Trombone, Sousaphone, Keyboard
+- Musician - trombone, sousaphone, keyboard
 @snapend
 
 @snap[east span-35]
@@ -117,3 +117,5 @@
 - What you're doing now
 - Where you're from
 - Something you love that has nothing to do with computers
+
+---
