@@ -26,18 +26,19 @@
 
 - Learning to learn
 
-    Goal: **"I don't know, but I know how to find out"**
+    **"I don't know, but I know how to find out"**
 - Positive, collaborative, safe, and inclusive
 - Focused on concrete, applicable skills
 - Student-centered
 
 ---
 
-## This is not your application
+<!-- ## This is not your application -->
+## The Points Don't Matter
 
-- Being here does **not** change your chances of being accepted
+- This workshop is not part of your application
 - I will not report back to the admissions team
-- (but, don't be a jerk)
+- Relax, be yourself, learn something
 
 ---
 
@@ -78,7 +79,7 @@
 
 11:00 - Selectors
 
-11:20 - Project Time
+11:20 - Project Time **+ Break**
 
 12:10 - Deployment
 
