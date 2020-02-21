@@ -1,9 +1,3 @@
-# HTML + CSS
-
-### Pre-Ada Workshop
-
----
-
 ## Objectives
 
 - Boost your **technical skills** and help your Ada application
@@ -33,7 +27,6 @@
 
 ---
 
-<!-- ## This is not your application -->
 ## The Points Don't Matter
 
 - This workshop is not part of your application
