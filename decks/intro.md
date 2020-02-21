@@ -8,39 +8,50 @@
 
 ## Technical Skills
 
-- Basic HTML and CSS
-- Vocabulary
-- Setup / "yak-shaving"
-- Debugging
-- Googling
+Basic HTML and CSS
+
+Vocabulary
+
+Setup / "yak-shaving"
+
+Debugging
+
+Googling
 
 ---
 
 ## Ada's Approach
 
-- Learning to learn
+Learning to learn
+> **"I don't know, but I know how to find out"**
 
-    **"I don't know, but I know how to find out"**
-- Positive, collaborative, safe, and inclusive
-- Focused on concrete, applicable skills
-- Student-centered
+Positive, collaborative, safe, and inclusive
+
+Focused on concrete, applicable skills
+
+Student-centered
 
 ---
 
 ## The Points Don't Matter
 
-- This workshop is not part of your application
-- I will not report back to the admissions team
-- Relax, be yourself, learn something
+This workshop is not part of your application
+
+I will not report back to the admissions team
+
+Relax, be yourself, learn something
 
 ---
 
 ## Ground Rules
 
-- Respect each other
-- Step up / step back
-- Speak up if you need something
-- If you need to step out, please do
+Respect each other
+
+Step up / step back
+
+Speak up if you need something
+
+If you need to step out, please do
 
 ---
 
