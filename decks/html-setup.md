@@ -117,7 +117,7 @@ Attributes are also one word
 
 Values go in quotes like a string
 
-- Each value may or may not have a value
+- An attribute may or may not have a value
 
 ---
 
