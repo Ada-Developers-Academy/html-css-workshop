@@ -9,7 +9,9 @@
 ## Objectives
 
 - Boost your **technical skills** and help your Ada application
+
 - Introduce **Ada's approach** to education
+
 - **Get excited!**
 
 ---
@@ -17,9 +19,13 @@
 ## Technical Skills
 
 - Basic HTML and CSS
+
 - Vocabulary
+
 - Setup / "yak-shaving"
+
 - Debugging
+
 - Googling
 
 ---
@@ -31,7 +37,9 @@
   **_"I don't know, but I know how to find out"_**
 
 - Positive, collaborative, safe, and inclusive
+
 - Focused on concrete, applicable skills
+
 - Student-centered
 
 ---
@@ -51,8 +59,11 @@ Relax, be yourself, learn something
 ## Ground Rules
 
 - Respect each other
+
 - Step up / step back
+
 - Speak up if you need something
+
 - If you need to step out, please do
 
 ---
@@ -124,7 +135,9 @@ Relax, be yourself, learn something
 ## Who are You?
 
 - Name, pronouns
+
 - Where you're from
+
 - Something you love that has nothing to do with computers
 
 ---
@@ -132,8 +145,11 @@ Relax, be yourself, learn something
 ## Our Volunteers
 
 - Name, pronouns
+
 - Cohort
+
 - Where you're from
+
 - Something you love that has nothing to do with computers
 
 ---

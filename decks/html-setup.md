@@ -73,8 +73,8 @@ on a live website
 ---
 
 
-
 @snap[west span-55]
+
 ## Workflow
 
 <!-- https://www.draw.io/#G1ELMm8QyMA8CIdgTxyifjE5ZiB6As2aXh -->
@@ -82,7 +82,7 @@ on a live website
 @snapend
 
 @snap[east span-45]
-Question: How is this similar to when we're working in Ruby?
+Question: How is this similar to working in Ruby?
 @snapend
 
 ---
@@ -103,8 +103,6 @@ Open and close tags must match (`<h1>` to `</h1>`, `<p>` to `</p>`)
 
 Content can be anything - even other elements!
 
-this is a very long string of text this is a very long string of text this is a very long string of text this is a very long string of text this is a very long string of text 
-
 ---
 
 ## HTML Vocab - Tags
@@ -113,39 +111,42 @@ this is a very long string of text this is a very long string of text this is a 
 
 ![html tag vocab](assets/images/HTML-vocab-tag.png)
 
-Name is always one word
+The element's **name** is one lowercase word
 
-- Case doesn't matter - we'll user lower case
+Some elements have **attributes** in the open tag
 
-Attributes are also one word
-
-- A tag may have zero, one or many attributes
-- Close tags don't get attributes
-
-Values go in quotes like a string
-
-- An attribute may or may not have a value
+Attributes usually need a **value** in quotes
 
 ---
 
 ## HTML Vocab - Nesting
 
-@snap[west]
-```html
+@snap[east span-40]
+
+```html zoom-15
 <article>
   <h1>Instructions</h1>
   <p>
-    Please fill out the following...
+    Please fill out...
   </p>
 </article>
 ```
+
+@[1, 6]
+@[2]
+@[2-5]
+
 @snapend
 
-@snap[east]
+@snap[west span-57]
 We can **nest** elements inside each other
-@[1, 6](The outer element is called the **parent**)
-@[2](inner elements are called **children**)
-@[2-5](children of the same parent are called **siblings**)
+
+- The outer element is the **parent**
+
+- Inner elements are **children**
+
+- Children of the same parent are **siblings**
+
 @snapend
 
 ---
@@ -154,8 +155,8 @@ We can **nest** elements inside each other
 
 Some elements are just one tag, no content and no close tag
 
-```html
-<img src="assets/images/logo.png" />
+```html zoom-15
+<img src="assets/images/logo.png">
 ```
 
 We call these **self-closing** tags
