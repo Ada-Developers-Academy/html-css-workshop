@@ -124,7 +124,6 @@ If you need to step out, please do
 - Name, pronouns
 - Cohort
 - What you're doing now
-- Where you're from
 - Something you love that has nothing to do with computers
 
 ---
