@@ -1,4 +1,8 @@
+@snap[midpoint span-100]
+
 # Introduction
+
+@snapend
 
 ---
 
@@ -12,32 +16,29 @@
 
 ## Technical Skills
 
-Basic HTML and CSS
-
-Vocabulary
-
-Setup / "yak-shaving"
-
-Debugging
-
-Googling
+- Basic HTML and CSS
+- Vocabulary
+- Setup / "yak-shaving"
+- Debugging
+- Googling
 
 ---
 
-## Ada's Approach Test
+## Ada's Approach
 
-Learning to learn
-> **"I don't know, but I know how to find out"**
+- Learning to learn
 
-Positive, collaborative, safe, and inclusive
+  **_"I don't know, but I know how to find out"_**
 
-Focused on concrete, applicable skills
-
-Student-centered
+- Positive, collaborative, safe, and inclusive
+- Focused on concrete, applicable skills
+- Student-centered
 
 ---
 
-## The Points Don't Matter
+## A Word to the Wise
+
+There is no evaluation
 
 This workshop is not part of your application
 
@@ -49,13 +50,10 @@ Relax, be yourself, learn something
 
 ## Ground Rules
 
-Respect each other
-
-Step up / step back
-
-Speak up if you need something
-
-If you need to step out, please do
+- Respect each other
+- Step up / step back
+- Speak up if you need something
+- If you need to step out, please do
 
 ---
 
@@ -71,39 +69,51 @@ If you need to step out, please do
 
 ## Agenda
 
-9:00 - Intro
+@snap[west span-50]
 
-9:20 - HTML Setup
+9:00  - Intro              
 
-**9:40 - Break**
+9:20  - HTML Setup         
 
-9:50 - Tags and Attributes
+9:40  - **Break**          
 
-10:10 - CSS Setup
+9:50  - Tags and Attributes
 
-**10:30 - Break**
+10:10 - CSS Setup          
 
-10:40 - Styling
+10:30 - **Break**          
 
-11:00 - Selectors
+@snapend
 
-11:20 - Project Time **+ Break**
+@snap[east span-50 text-left]
 
-12:10 - Deployment
+10:40 - Styling     
 
-**12:30 - Done!**
+11:00 - Selectors   
+
+11:20 - **Break**   
+
+11:30 - Project Time
+
+12:10 - Deployment  
+
+12:30 - **Done!**   
+
+
+@snapend
 
 ---
 
-@snap[west span-65]
 ## Who am I?
+
+@snap[west span-65]
 
 - Dan Roberts, he/him
 - [dan@adadev.org](mailto:dan@adadev.org)
 - Started at Ada with C6 in 2016, have worn many hats
 - Background in operating systems and networking
 - Musician - trombone, sousaphone, keyboard
-@snapend
+  @snapend
 
 @snap[east span-35]
 ![dan profile](assets/images/dan-flowers.png)
@@ -123,7 +133,7 @@ If you need to step out, please do
 
 - Name, pronouns
 - Cohort
-- What you're doing now
+- Where you're from
 - Something you love that has nothing to do with computers
 
 ---

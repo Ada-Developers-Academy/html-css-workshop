@@ -72,13 +72,18 @@ on a live website
 
 ---
 
-## Web Development Workflow
+
+
+@snap[west span-55]
+## Workflow
 
 <!-- https://www.draw.io/#G1ELMm8QyMA8CIdgTxyifjE5ZiB6As2aXh -->
+![webdev workflow](assets/images/HTML-developer-flow.png)
+@snapend
 
-![webdev workflow](../assets/images/HTML-developer-flow.png)
-
+@snap[east span-45]
 Question: How is this similar to when we're working in Ruby?
+@snapend
 
 ---
 
@@ -90,13 +95,15 @@ Question: How is this similar to when we're working in Ruby?
 
 <!-- https://www.draw.io/#G1flliSXhehhQJ2Et3rkxicG4bTQzxKeMO -->
 
-![html element vocab](../assets/images/HTML-vocab-element.png)
+![html element vocab](assets/images/HTML-vocab-element.png)
 
-### Element = Open Tag + Content + Close Tag
+Element = Open Tag + Content + Close Tag
 
 Open and close tags must match (`<h1>` to `</h1>`, `<p>` to `</p>`)
 
 Content can be anything - even other elements!
+
+this is a very long string of text this is a very long string of text this is a very long string of text this is a very long string of text this is a very long string of text 
 
 ---
 
@@ -104,7 +111,7 @@ Content can be anything - even other elements!
 
 <!-- https://www.draw.io/#G1flliSXhehhQJ2Et3rkxicG4bTQzxKeMO -->
 
-![html tag vocab](../assets/images/HTML-vocab-tag.png)
+![html tag vocab](assets/images/HTML-vocab-tag.png)
 
 Name is always one word
 

@@ -30,20 +30,20 @@ highlight : tomorrow
 # Theme-Override Setting
 # Doc: https://gitpitch.com/docs/settings/custom-theme
 #
-# theme-override: assets/css/PITCHME.css
+theme-override: assets/css/PITCHME.css
 
 #
 # Logo Setting
 # https://gitpitch.com/docs/settings/logo
 #
 logo : assets/images/logo.png
-logo-position : top-left
+logo-position : top-right
 
 #
 # Layout Setting
 # Doc: https://gitpitch.com/docs/settings/layout
 #
-layout : center-left
+layout : top-left
 
 #
 # Footnote Setting
