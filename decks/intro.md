@@ -82,27 +82,34 @@ Relax, be yourself, learn something
 
 @snap[west span-50]
 
-| When | What |
-| --- | --- |
-| 9:00 | Intro |
-| 9:20 | HTML Setup |
-| 9:40 | **Break** |
-| 9:50 | Tags and Attributes |
-| 10:10 | CSS Setup |
-| 10:30 | **Break** |
+9:00  - Intro              
+
+9:20  - HTML Setup         
+
+9:40  - **Break**          
+
+9:50  - Tags and Attributes
+
+10:10 - CSS Setup          
+
+10:30 - **Break**          
 
 @snapend
 
 @snap[east span-50 text-left]
 
-| When | What |
-| --- | --- |
-| 10:40 | Styling |
-| 11:00 | Selectors |
-| 11:20 | **Break** |
-| 11:30 | Project Time |
-| 12:10 | Deployment |
-| 12:30 | **Done!** |
+10:40 - Styling     
+
+11:00 - Selectors   
+
+11:20 - **Break**   
+
+11:30 - Project Time
+
+12:10 - Deployment  
+
+12:30 - **Done!**   
+
 
 @snapend
 

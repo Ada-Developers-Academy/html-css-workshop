@@ -41,34 +41,112 @@ By the end of this module, students will be able to...
 
 ## What is HTML?
 
+<span class="big">**Hypertext Markup Language**</span>
+
+- **Hypertext**: text + links
+
+- **Markup**: content + instructions
+
+<br>
+
+HTML defines the **structure** of a website
+
 ---
 
 ## Dev Tools
 
-on a live website
+Open up Chrome and navigate to adadev.org
+
+Open the **developer tools** with `cmd + opt + i`
+
+<ul class="small">
+<li>Or right click (`ctrl` click) and click "inspect"</li>
+<li>Think "i" for "inspect"</li>
+</ul>
+<br>
+
+This allows you to see the page's HTML! Can you find...
+
+- The Ada logo
+- The "Testimonials" section
+- The "Contact Us" link
 
 ---
 
-## Making our own site
+## Making A Website
+
+@snap[west span-60]
+
+- Lots of instructions incoming!
+
+- We're going to go **slow** - no one left behind!
+
+- Check in with your **pod**
+
+- Flag down a **volunteer**
+
+- If there is a big technical problem, we can sort things out during the break
+@snapend
+
+@snap[east span-40]
+![under construction](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Vienna_Convention_road_sign_Ab-16-V1-LHT.svg/500px-Vienna_Convention_road_sign_Ab-16-V1-LHT.svg.png)
+@snapend
 
 ---
 
-## Instructions: file setup
+## Instructions: Files
 
-- make a folder for the workshop
-- make a folder for the section
-- open the folder in VS Code
-- make a file
+1. Open the **Finder** app
+
+1. Select the **"Documents"** folder on the left
+
+1. Control-click to open the menu and click **"New Folder"**
+
+1. Call the folder "ada html css workshop"
+
+1. Open the **VS Code** app
+
+1. Choose File -> Open (`cmd+o`), select "Documents" on the left, **select the new folder** and click "Open"
 
 ---
 
-## Instructions: add HTML boilerplate + h1 element
+## Instructions: Code
+
+1. Hit `cmd+shift+e` to open the **"Explorer" pane**
+
+1. Click the **"New File"** button to add a file
+
+1. Call the file `index.html` and hit enter to confirm
+
+1. In the file, **type "`html`"** and VS Code should show a menu
+
+1. Use the arrow keys to select `html:5` and hit `tab`
+
+1. Between `<body>` and `</body>`, add this line:
+
+```html zoom-15
+<h1>Hello, World!</h1>
+```
 
 ---
 
-## Instructions: open file in chrome
+## Instructions: Observe
 
-- Make a change and refresh
+1. Open Finder and **navigate to the folder** we created earlier under Documents
+
+1. Control-click on `index.html`, then select
+
+    "Open With" -> **"Google Chrome"**
+
+1. What do you see? Is it what you expected?
+
+1. Switch to VS Code and **change** "World" to your name
+
+1. **Save** the file (`cmd+s`)
+
+1. Switch to Chrome and **refresh** the page (`cmd+r`)
+
+1. What do you see? Is it what you expected?
 
 ---
 
@@ -82,30 +160,36 @@ on a live website
 @snapend
 
 @snap[east span-45]
-Question: How is this similar to working in Ruby?
+How is this similar to working in Ruby?
 @snapend
 
 ---
 
-## Instructions: dev tools on our site
+## Dev Tools on Our Site
+
+Open up the Chrome Dev Tools on your page
+
+What do you see?
+
+Is it different than the HTML you typed?
 
 ---
 
-## HTML Vocab - Elements
+## Vocab - Elements
 
 <!-- https://www.draw.io/#G1flliSXhehhQJ2Et3rkxicG4bTQzxKeMO -->
 
 ![html element vocab](assets/images/HTML-vocab-element.png)
 
-Element = Open Tag + Content + Close Tag
+Element = open tag + content + close tag
 
-Open and close tags must match (`<h1>` to `</h1>`, `<p>` to `</p>`)
+Open and close tags **must match** (e.g. `<h1>` to `</h1>`)
 
 Content can be anything - even other elements!
 
 ---
 
-## HTML Vocab - Tags
+## Vocab - Tags
 
 <!-- https://www.draw.io/#G1flliSXhehhQJ2Et3rkxicG4bTQzxKeMO -->
 
@@ -119,9 +203,9 @@ Attributes usually need a **value** in quotes
 
 ---
 
-## HTML Vocab - Nesting
+## Vocab - Nesting
 
-@snap[east span-40]
+@snap[east span-50]
 
 ```html zoom-15
 <article>
@@ -138,7 +222,7 @@ Attributes usually need a **value** in quotes
 
 @snapend
 
-@snap[west span-57]
+@snap[west span-50]
 We can **nest** elements inside each other
 
 - The outer element is the **parent**
@@ -151,26 +235,48 @@ We can **nest** elements inside each other
 
 ---
 
-## HTML Vocab - Self-Closing Tags
+## Vocab - Self-Closing
 
-Some elements are just one tag, no content and no close tag
+Some elements have no content and no close tag
 
 ```html zoom-15
-<img src="assets/images/logo.png">
+<img src="images/ada-logo.png">
 ```
 
 We call these **self-closing** tags
 
-Question: can a self-closing tag have children?
+**Question:** can a self-closing tag have children?
 
 ---
 
 ## `<head>` and `<body>`
 
+`<body>` contains everything that appears on the page 
+
+What does `<head>` contain?
+
+Try changing the `<title>` tag - what happens?
+
 ---
 
 ## Comments
 
+The browser ignores anything between `<!--` and `-->`
+
+These are called comments, just like in Ruby
+
+In VS Code, `cmd+/` turns the current line into a comment
+
 ---
 
 ## Comprehension Questions
+
+- What does HTML stand for?
+
+- How do you open the Chrome Dev Tools?
+
+- What are the parts of an element?
+
+- What are the parts of a tag?
+
+- What are the `<head>` and `<body>` tags for?
