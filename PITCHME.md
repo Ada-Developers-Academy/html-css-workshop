@@ -7,3 +7,5 @@
 ---?include=decks/intro.md
 
 ---?include=decks/html-setup.md
+
+---?include=decks/tags-attributes.md

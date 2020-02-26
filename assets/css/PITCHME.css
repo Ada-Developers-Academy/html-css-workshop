@@ -17,3 +17,7 @@
 .reveal .slides .big {
   font-size: 1.3em;
 }
+
+.reveal .slides .indent {
+  margin-left: 1rem;
+}
