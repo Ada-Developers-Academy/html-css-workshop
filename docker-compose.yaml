@@ -3,7 +3,7 @@ services:
   gitpitch:
     image: gitpitch/desktop:pro
     volumes:
-      - .:/repo
+      - .:/repo:cached
     ports:
       - "9000:9000"
     environment:
