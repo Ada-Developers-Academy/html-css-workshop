@@ -90,10 +90,70 @@ What Ruby data structure does this remind you of?
 
 ## Selecting by Element
 
+The **selector** tells the browser what elements are covered by the rule
+
+**All** matching elements will have their styles changed
+
+```css zoom-15
+img {
+  width: 300px;
+}
+```
+
+<span class="small">This will make **all** images have a width of 300 pixels</span>
+
+---
+
+## CSS Practice
+
+Add the following styles to your web page:
+
+- All `<h1>` tags use the font "Times New Roman"
+- All `<li>` tags have a solid black border 1 pixel wide
+- All `<p>` tags have centered text of size 28 pixels
+
 ---
 
 ## Selecting by Class
 
+
+
+---
+
+## Multiple Targets
+
+A selector can have **multiple targets**
+
+Targets are separated by **commas**
+
+```css zoom-15
+h1, p {
+  background-color: aquamarine;
+}
+```
+
+<span class="small">This will change the background color of all `<h1>` **and** `<p>` elements</span>
+
+---
+
+## Comments
+
+The browser ignores anything between `/*` and `*/`
+
+These are called comments, just like in Ruby
+
+In VS Code, `cmd+/` turns the current line into a comment
+
 ---
 
 ## Comprehension Questions
+
+- What does CSS stand for?
+
+- What are the parts of a CSS ruleset?
+
+- What are the parts of a CSS rule?
+
+- How would you select all `<ul>` elements?
+
+- How would you select one specific `<ul>` element?
