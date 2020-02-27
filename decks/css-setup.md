@@ -41,7 +41,7 @@ CSS defines the **appearance** of a website
 
 ## CSS Dev Tools
 
-Open the Chrome Dev Tools on adadev.org
+Open the Chrome Dev Tools on [adadev.org](adadev.org)
 
 Select an element and look at the bottom panel. This shows the **styles** that are affecting the element
 
@@ -100,7 +100,7 @@ img {
 }
 ```
 
-<span class="small">This will make **all** images have a width of 300 pixels</span>
+<span class="small">This will make **all images** have a width of 300 pixels</span>
 
 ---
 
@@ -109,14 +109,87 @@ img {
 Add the following styles to your web page:
 
 - All `<h1>` tags use the font "Times New Roman"
+
 - All `<li>` tags have a solid black border 1 pixel wide
+
 - All `<p>` tags have centered text of size 28 pixels
+
+---
+
+## Debugging CSS
+
+What happened when you made a mistake?
+
+- Select an element that doesn't exist
+
+- Spell a property or value wrong
+
+- Forget a semicolon
+
+How can you figure out what went wrong?
 
 ---
 
 ## Selecting by Class
 
+Our rulesets apply to **all** of an element
 
+What if we want to select **just one**?
+
+We can add the `class` attribute to that element's HTML, then select by class!
+
+---
+
+@snap[north-west span-57]
+
+### HTML
+
+```html
+<ul>
+  <li>Cherry</li>
+  <li>Apple</li>
+  <li class="favorite-fruit">Peach</li>
+</ul>
+```
+
+Add the **class attribute** to the element you want to select
+
+The value should be **kebab-case** (lowercase + dashes)
+
+@snapend
+
+@snap[north-east span-40 text-left]
+
+### CSS
+
+```css
+.favorite-fruit {
+  font-weight: bold;
+  background-color: fuchsia;
+}
+```
+
+<br>
+
+Any selector that starts with a **period** will look for a class
+
+@snapend
+
+---
+
+## Flexible Classes
+
+You can add the same class to **multiple elements**
+
+One element can have **multiple classes**, separated by spaces
+
+```html zoom-15
+<ul>
+  <li class="stone-fruit">Cherry</li>
+  <li>Apple</li>
+  <li class="stone-fruit favorite">Peach</li>
+</ul>
+```
 
 ---
 
@@ -127,12 +200,23 @@ A selector can have **multiple targets**
 Targets are separated by **commas**
 
 ```css zoom-15
-h1, p {
+h1, .important {
   background-color: aquamarine;
 }
 ```
 
-<span class="small">This will change the background color of all `<h1>` **and** `<p>` elements</span>
+<span class="small">This will change the background color of all `<h1>` elements **and** any element with the class `important`</span>
+
+---
+
+## Selector Practice
+
+Use the `class` attribute to add the following pieces to your webpage:
+
+- A paragraph where the text is both italic and bold
+- A paragraph where the styles match those for `heading` elements
+
+There are many other selectors beyond what we've covered today - feel free to explore!
 
 ---
 
