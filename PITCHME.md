@@ -8,6 +8,6 @@
 
 ---?include=decks/html-setup.md
 
----?include=decks/tags-attributes.md
+---?include=decks/html-tags-attributes.md
 
 ---?include=decks/css-setup.md
