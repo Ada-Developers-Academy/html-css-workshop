@@ -9,3 +9,5 @@
 ---?include=decks/html-setup.md
 
 ---?include=decks/tags-attributes.md
+
+---?include=decks/css-setup.md
