@@ -226,6 +226,7 @@ h1, h2, .important {
 Use the `class` attribute to add the following pieces to your webpage:
 
 - A paragraph where the text is both italic and bold
+
 - A paragraph where the styles match those for `heading` elements
 
 There are many other selectors beyond what we've covered today - feel free to explore!
