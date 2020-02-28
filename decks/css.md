@@ -1,6 +1,6 @@
 @snap[midpoint span-100]
 
-# CSS Setup
+# CSS
 
 @snapend
 
