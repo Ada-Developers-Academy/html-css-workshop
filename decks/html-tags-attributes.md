@@ -107,7 +107,7 @@ We call these **self-closing** tags
 
 ---
 
-## Comments
+## HTML Comments
 
 The browser ignores anything between `<!--` and `-->`
 

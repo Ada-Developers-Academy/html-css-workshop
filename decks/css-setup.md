@@ -130,6 +130,16 @@ How can you figure out what went wrong?
 
 ---
 
+## CSS Comments
+
+The browser ignores anything between `/*` and `*/`
+
+These are called comments, just like in Ruby
+
+In VS Code, `cmd+/` turns the current line into a comment
+
+---
+
 ## Selecting by Class
 
 Our rulesets apply to **all** of an element
@@ -137,6 +147,8 @@ Our rulesets apply to **all** of an element
 What if we want to select **just one**?
 
 We can add the `class` attribute to that element's HTML, then select by class!
+
+<span class="small">Note: this is very different from a Ruby class!</span>
 
 ---
 
@@ -200,12 +212,12 @@ A selector can have **multiple targets**
 Targets are separated by **commas**
 
 ```css zoom-15
-h1, .important {
+h1, h2, .important {
   background-color: aquamarine;
 }
 ```
 
-<span class="small">This will change the background color of all `<h1>` elements **and** any element with the class `important`</span>
+<span class="small">This will change the background color of all `<h1>` and `<h2>` elements **and** any element with the class `important`</span>
 
 ---
 
@@ -220,24 +232,73 @@ There are many other selectors beyond what we've covered today - feel free to ex
 
 ---
 
-## Comments
+@snap[north-west span-65]
+## Rule Conflicts
 
-The browser ignores anything between `/*` and `*/`
+What happens if **multiple rulesets** apply to the **same element**?
 
-These are called comments, just like in Ruby
+<br>
 
-In VS Code, `cmd+/` turns the current line into a comment
+```html
+<p class="target">
+  This is a paragraph
+</p>
+```
+@snapend
+
+@snap[east span-35]
+```css
+p {
+  background-color: red;
+  color: navy;
+}
+
+.target {
+  background-color: blue;
+}
+
+p {
+  color: olive;
+}
+```
+@snapend
 
 ---
 
-## Comprehension Questions
+## Cascade
+
+The way that different rules are applied to an element is called the **Cascade** (the C in CSS)
+
+<span class="small">These are also sometimes called the rules of **precedence**</span>
+
+- **Class selectors** have precedence over element selectors
+
+- If the selector is the same, rules defined **later in the CSS file** have precedence
+
+More complex selectors have more complex rules, but this is enough for us to get started
+
+---
+
+## Precedence Practice
+
+Come up with **3 scenarios** where it's not obvious which CSS rule will apply
+
+**Try them** on your web page and **observe** the results
+
+Compare notes with your pod
+
+---
+
+## Review Questions
 
 - What does CSS stand for?
 
 - What are the parts of a CSS ruleset?
 
-- What are the parts of a CSS rule?
+- What is the syntax for a CSS rule?
 
-- How would you select all `<ul>` elements?
+- How would you give all `<ul>` elements a blue background?
 
-- How would you select one specific `<ul>` element?
+- How would you give one specific `<ul>` element a red background?
+
+- Which of those two rules would have precedence?
