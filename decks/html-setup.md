@@ -32,10 +32,9 @@
 
 By the end of this module, students will be able to...
 
-- Set up an HTML document and view it in the browser
 - Use developer tools to inspect HTML
-- Differentiate between the `<head>` and `<body>` of an HTML document
-- Define key terms related to HTML
+- Set up an HTML document and view it in the browser
+- Describe the web development workflow
 
 ---
 
@@ -175,14 +174,10 @@ Is it different than the HTML you typed?
 
 ---
 
-## Comprehension Questions
+## Review Questions
 
 - What does HTML stand for?
 
 - How do you open the Chrome Dev Tools?
 
-- What are the parts of an element?
-
-- What are the parts of a tag?
-
-- What are the `<head>` and `<body>` tags for?
+- After you make changes to a `.html` file with VS Code, what are the steps to see the change in the browser?

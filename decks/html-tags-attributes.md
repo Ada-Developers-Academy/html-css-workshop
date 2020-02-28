@@ -8,6 +8,21 @@
 
 ---
 
+## Learning Goals
+
+By the end of this module, students will be able to...
+
+- Differentiate between the `<head>` and `<body>` of an HTML document
+- Define key terms related to HTML
+    - Elements
+    - Tags
+    - Attributes and Values
+    - Nesting
+    - Self-closing Tags
+- Structure the content of a web page with HTML
+
+---
+
 ## `<head>` and `<body>`
 
 `<body>` contains everything that appears on the page 
@@ -102,17 +117,29 @@ In VS Code, `cmd+/` turns the current line into a comment
 
 ---
 
+## Review Questions
+
+- What are the parts of an element?
+
+- What are the parts of a tag?
+
+- What is the syntax for setting an attribute?
+
+- How is a self-closing element different?
+
+- What are the `<head>` and `<body>` tags for?
+
+---
+
 ## Tags Jigsaw
 
 Pods of 4
 
 2 minutes: **Intro**
 
-5 minutes: **Research** your tags
+8 minutes: **Research** your tags
 
-8 minutes: **Teach** your pod (2 minutes each)
-
-5 minutes: **Practice**
+10 minutes: **Teach** your pod (2 minutes each)
 
 ---
 
@@ -120,9 +147,9 @@ Pods of 4
 
 ### Tags
 
-1. Links and paragraphs<div class="indent">`<a>`, `<p>`</div>
+1. Links and images<div class="indent">`<a>`, `<img>`</div>
 1. Lists<div class="indent">`<ul>`, `<ol>`, `<li>`</div>
-1. Images<div class="indent">`<img>`</div>
+1. Paragraphs, strong and emphasis<div class="indent">`<p>`, `<strong>`, `<em>`</div>
 1. Sectioning elements<div class="indent">`<header>`, `<footer>`, `<main>`, `<nav>`</div>
 
 @snapend
@@ -145,7 +172,7 @@ What **attributes** (if any) does it take?
 
 ## Practice
 
-Use these elements to create a page. It should include:
+Use these elements to create a web page. It should include:
 
 - `<header>` and `<main>` sections
 - Several paragraphs (don't spend too much time writing)
@@ -153,4 +180,4 @@ Use these elements to create a page. It should include:
 - At least one image
 - At least one link
 
-Idea: make a bio for yourself
+Idea: turn your favorite recipe into a web page
