@@ -101,7 +101,7 @@ This allows you to see the page's HTML! Can you find...
 
 1. Control-click to open the menu and click **"New Folder"**
 
-1. Call the folder "ada html css workshop"
+1. Call the folder "ada-html-css-workshop"
 
 1. Open the **VS Code** app
 
