@@ -78,7 +78,11 @@ Hosting service provided by GitHub
 
 <span class="small">GitHub is a tool for tracking and sharing code, used both at Ada and in industry</span>
 
-Simple but powerful
+<ul>
+<li>Simple</li>
+<li>Powerful</li>
+<li>Free</li>
+</ul>
 
 Perfect for our needs today
 @snapend
@@ -151,7 +155,9 @@ Perfect for our needs today
 
 @snap[midpoint span-80]
 ![upload select files](assets/images/deployment-upload-3.png)
+@snapend
 
+@snap[south span-100]
 Make sure to upload any images or additional pages
 @snapend
 
