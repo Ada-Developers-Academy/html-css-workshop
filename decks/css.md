@@ -53,7 +53,7 @@ What do you notice?
 
 <ol>
 <li>
-Create a file in the same directory called `index.css`
+Create a file in the same folder called `index.css`
 </li>
 <li>
 Add the following code to the CSS file:
@@ -270,7 +270,7 @@ p {
 
 The way that different rules are applied to an element is called the **Cascade** (the C in CSS)
 
-<span class="small">These are also sometimes called the rules of **precedence**</span>
+<span class="small">These are also sometimes called the **rules of precedence**</span>
 
 - **Class selectors** have precedence over element selectors
 

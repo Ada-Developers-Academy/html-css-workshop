@@ -18,17 +18,17 @@ By the end of this module, students will be able to...
 
 - **Describe** different approaches to deployment
 
-- **Use** GitHub Pages to deploy a static web site
+- **Use** GitHub Pages to deploy a web site
 
 ---
 
-## Why Deploy
+## Why Deploy?
 
 Right now your web site only exists on your computer
 
 If you want to share it with others, you'll need to put it "on the internet" somehow
 
-We call the act of sharing our code on the public internet **"deployment"**
+We call the act of sharing our code on the public internet **deployment**
 
 ---
 

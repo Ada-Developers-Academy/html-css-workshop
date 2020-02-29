@@ -18,6 +18,18 @@
 
 ## Technical Skills
 
+@snap[midpoint span-100]
+<br>
+
+![height=400px](assets/images/Blooms-Taxonomy.jpg)
+
+We'll be focusing on the bottom two layers
+@snapend
+
+---
+
+## Technical Skills
+
 - Basic HTML and CSS
 
 - Vocabulary
@@ -28,13 +40,16 @@
 
 - Googling
 
+- Connections to working in Ruby
+
 ---
+
 
 ## Ada's Approach
 
 - Learning to learn
 
-  **_"I don't know, but I know how to find out"_**
+<span class="indent">**_"I don't know, but I know how to find out"_**</span>
 
 - Positive, collaborative, safe, and inclusive
 

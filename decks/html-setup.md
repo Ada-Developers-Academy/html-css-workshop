@@ -1,4 +1,6 @@
+@snap[midpoint span-100]
 # HTML Setup
+@snapend
 
 ---
 
@@ -54,7 +56,7 @@ HTML defines the **structure** of a website
 
 ## Dev Tools
 
-Open up Chrome and navigate to adadev.org
+Open up Chrome and navigate to [adadev.org]()
 
 Open the **developer tools** with `cmd + opt + i`
 
