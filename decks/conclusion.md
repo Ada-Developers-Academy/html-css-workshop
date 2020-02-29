@@ -6,15 +6,32 @@
 
 ---
 
+## Credit Where It's Due
+
+### Huge THANK YOU to...
+
+<br>
+
+**Jane Park**, for all the behind the scenes work
+
+<br>
+
+**Our wonderful volunteers**, for showing up on a Saturday
+
+---
+
 ## Thank You For Coming!
 
 I hope that you...
 
-- Learned something about web development
+<ul class="small">
+<li>Learned something about **web development**</li>
+<li>Learned something about **how Ada operates**</li>
+<li>Feel **empowered** and **motivated** to practice on your own</li>
+<li>**Enjoyed yourself**</li>
+</ul>
 
-- Learned something about how Ada operates
-
-- Enjoyed yourself
+<br>
 
 **You have a survey in your email** - please fill it out!
 
