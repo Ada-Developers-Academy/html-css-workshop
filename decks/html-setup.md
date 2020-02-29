@@ -6,27 +6,33 @@
 
 ## Agenda
 
-9:00 - Intro
+@snap[west span-50]
 
-<span style="color: #EF654A">9:20 - HTML Setup</span>
+9:00  - Intro
 
-**9:40 - Break**
+<span style="color: #EF654A">9:20  - HTML Setup</span>
 
-9:50 - Tags and Attributes
+9:40  - **Break**
 
-10:10 - CSS Setup
+9:50  - Tags and Attributes
 
-**10:30 - Break**
+10:30 - **Break**
 
-10:40 - Styling
+@snapend
 
-11:00 - Selectors
+@snap[east span-50 text-left]
 
-11:20 - Project Time **+ Break**
+10:40 - CSS
+
+11:20 - Practice
+
+12:00 - Practice Wrap-up
 
 12:10 - Deployment
 
-**12:30 - Done!**
+12:30 - **Done!**
+
+@snapend
 
 ---
 

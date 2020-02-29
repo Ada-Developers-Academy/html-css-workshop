@@ -97,7 +97,7 @@ Agenda is a guideline, only hard rule is we'll be done by 12:30
 
 @snap[west span-50]
 
-9:00  - Intro
+<span style="color: #EF654A">9:00  - Intro</span>
 
 9:20  - HTML Setup
 
@@ -111,7 +111,7 @@ Agenda is a guideline, only hard rule is we'll be done by 12:30
 
 @snap[east span-50 text-left]
 
-10:40 - CSS 
+10:40 - CSS
 
 11:20 - Practice
 
@@ -161,5 +161,3 @@ Agenda is a guideline, only hard rule is we'll be done by 12:30
 - Where you're from
 
 - Something you love that has nothing to do with computers
-
----

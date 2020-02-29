@@ -4,7 +4,35 @@
 
 ---
 
-# TODO AGENDA
+## Agenda
+
+@snap[west span-50]
+
+9:00  - Intro
+
+9:20  - HTML Setup
+
+9:40  - **Break**
+
+<span style="color: #EF654A">9:50  - Tags and Attributes</span>
+
+10:30 - **Break**
+
+@snapend
+
+@snap[east span-50 text-left]
+
+10:40 - CSS
+
+11:20 - Practice
+
+12:00 - Practice Wrap-up
+
+12:10 - Deployment
+
+12:30 - **Done!**
+
+@snapend
 
 ---
 
