@@ -15,3 +15,5 @@
 ---?include=decks/practice.md
 
 ---?include=decks/deployment.md
+
+---?include=decks/conclusion.md
