@@ -47,7 +47,7 @@ Practice, practice, practice!
 
 Practice with **intent**
 
-<div class="indent"><p>**"Today I want to get better at reading error messages"**</p></div>
+<div class="indent"><p>**_"Today I want to get better at reading error messages"_**</p></div>
 
 Get someone's contact info, meet up to work together
 

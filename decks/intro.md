@@ -87,9 +87,9 @@ Relax, be yourself, learn something
 
 9:00 - 12:30
 
-20-minute activity modules
+40 minutes of activity, 10 minute break
 
-10-minute break every 2 modules
+Agenda is a guideline, only hard rule is we'll be done by 12:30
 
 ---
 
@@ -105,26 +105,21 @@ Relax, be yourself, learn something
 
 9:50  - Tags and Attributes
 
-10:10 - HTML Practice
-
 10:30 - **Break**
 
 @snapend
 
 @snap[east span-50 text-left]
 
-10:40 - CSS Setup
+10:40 - CSS 
 
-11:00 - Selectors and Styles
+11:20 - Practice
 
-11:20 - **Break**
-
-11:30 - Project Time
+12:00 - Practice Wrap-up
 
 12:10 - Deployment
 
 12:30 - **Done!**
-
 
 @snapend
 

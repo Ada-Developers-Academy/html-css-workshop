@@ -12,7 +12,7 @@
 
 ## Practice
 
-Spend 30 minutes practicing what we've learned by expanding your web page
+Spend some time practicing what we've learned by expanding your web page
 <ul class="small">
 <li>Try to use something you're not quite comfortable with</li>
 <li>Feel free to work in pairs, ask for help, etc.</li>
@@ -22,7 +22,7 @@ Spend 30 minutes practicing what we've learned by expanding your web page
 
 What's next
 <ul class="small">
-<li>**10-minute warning** at 11:50</li>
+<li>**10-minute warning** at 11:50 (this is a good time to take a break!)</li>
 <li>At **12:00 sharp** we will come together for questions and wrap-up</li>
 <li>At 12:10 we transition to the next module (deployment)</li>
 </ul>
