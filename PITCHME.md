@@ -12,6 +12,6 @@
 
 ---?include=decks/css.md
 
----?include=decks/project.md
+---?include=decks/practice.md
 
 ---?include=decks/deployment.md
