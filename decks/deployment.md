@@ -192,3 +192,11 @@ Your site is now live on the internet!
 <br>
 
 Hint: There's a link on the GitHub Pages section of the Settings page
+
+---
+
+## Review Questions
+
+When you direct Chrome to the GitHub Pages site, which computer is the client and which is the server?
+
+Why would you use a hosting service instead of self-hosting?
