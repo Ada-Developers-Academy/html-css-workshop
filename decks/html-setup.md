@@ -40,9 +40,11 @@
 
 By the end of this module, students will be able to...
 
-- Use developer tools to inspect HTML
-- Set up an HTML document and view it in the browser
-- Describe the web development workflow
+- **Use** developer tools to inspect HTML
+
+- **Set up** an HTML document and view it in the browser
+
+- **Describe** the web development workflow
 
 ---
 

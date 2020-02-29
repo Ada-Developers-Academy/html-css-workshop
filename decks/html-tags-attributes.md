@@ -40,14 +40,11 @@
 
 By the end of this module, students will be able to...
 
-- Differentiate between the `<head>` and `<body>` of an HTML document
-- Define key terms related to HTML
-    - Elements
-    - Tags
-    - Attributes and Values
-    - Nesting
-    - Self-closing Tags
-- Structure the content of a web page with HTML
+- **Differentiate** between the `<head>` and `<body>` of an HTML document
+
+- **Define** key terms related to HTML: element, tag, attribute, value, nesting, self-closing
+
+- **Use** common HTML elements to structure the content of a web page
 
 ---
 

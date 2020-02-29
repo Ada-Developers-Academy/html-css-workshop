@@ -42,12 +42,15 @@
 
 By the end of this module, students will be able to...
 
-- Set up a CSS document and attach it to a web page
-- Use CSS to change the appearance of a web page
-- Select elements by tag name
-- Use classes to select specific elements
-- Use developer tools to inspect CSS
-- Define key terms related to CSS
+- **Set up** a CSS document and attach it to a web page
+
+- **Describe** the syntax of a CSS ruleset
+
+- **Use** element and class selectors in CSS
+
+- **Debug** CSS using the Chrome Developer Tools
+
+- **Define** key terms related to CSS: rule, ruleset, selector, class, cascade, precedence
 
 ---
 
