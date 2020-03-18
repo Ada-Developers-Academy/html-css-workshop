@@ -103,51 +103,127 @@ This allows you to see the page's HTML! Can you find...
 
 ---
 
-## Instructions: Files
+## Overview
 
-1. Open the **Finder** app
+1. Open VS Code, create a new folder to work in
 
-1. Select the **"Documents"** folder on the left
+1. Create a file called `index.html` in that folder
 
-1. Control-click to open the menu and click **"New Folder"**
+1. Add basic HTML to the file
 
-1. Call the folder "ada-html-css-workshop"
-
-1. Open the **VS Code** app
-
-1. Choose File -> Open (`cmd+o`), select "Documents" on the left, **select the new folder** and click "Open"
+1. Open the file in the browser
 
 ---
 
-## Instructions: Code
+@snap[north span-100]
+### Open VS Code
 
-1. Hit `cmd+shift+e` to open the **"Explorer" pane**
+`cmd + space` to open spotlight search
 
-1. Click the **"New File"** button to add a file
+Type `vs code`, then press `enter` to launch
 
-1. Call the file `index.html` and hit enter to confirm
+![](assets/images/setup/spotlight.png)
+@snapend
 
-1. In the file, **type "`html`"** and VS Code should show a menu
+---
 
-1. Use the arrow keys to select `html:5` and hit `tab`
+@snap[north span-100]
+### Create and Open a Folder
+@snapend
 
-1. Between `<body>` and `</body>`, add this line:
+@snap[west span-40]
+`cmd + o` to open
 
-```html zoom-15
+Click `Documents` on the left, then the `New Folder` button at the top left
+
+Type `ada-html-css-workshop`, then click `Create`
+
+Click on the new folder, then click `Open`
+@snapend
+
+@snap[east span-60]
+![](assets/images/setup/create-folder.png)
+@snapend
+
+---
+
+@snap[north span-100]
+### Create a File
+@snapend
+
+@snap[west span-40]
+Open the `Explorer` side-bar
+
+Click the `New File` button
+
+Call the file `index.html`, then press `enter` to confirm
+@snapend
+
+@snap[east span-60]
+![](assets/images/setup/create-file.png)
+@snapend
+
+---
+
+@snap[north span-100]
+### Insert Boilerplate
+@snapend
+
+@snap[west span-40]
+Select the new `index.html` file
+
+In the editor type `html` and a menu should pop up
+
+Select `html:5`
+
+Between `<body>` and `</body>` add
+
+```html zoom-12
 <h1>Hello, World!</h1>
 ```
+@snapend
+
+@snap[east span-60]
+![](assets/images/setup/autocomplete.gif)
+@snapend
 
 ---
 
-## Instructions: Observe
+@snap[north span-100]
+### Open Finder
+@snapend
 
-1. Open Finder and **navigate to the folder** we created earlier under Documents
+@snap[west span-40]
+`Ctrl + click` on the file
 
-1. Control-click on `index.html`, then select
+Select `Reveal in Finder`
+@snapend
 
-    "Open With" -> **"Google Chrome"**
+@snap[east span-60]
+![](assets/images/setup/open-finder.png)
+@snapend
 
-1. What do you see? Is it what you expected?
+---
+
+@snap[north span-100]
+### Open Chrome
+@snapend
+
+@snap[west span-40]
+`Ctrl + click` on the file
+
+Select `Open With` -> `Google Chrome`
+@snapend
+
+@snap[east span-60]
+![](assets/images/setup/open-chrome.png)
+@snapend
+
+---
+
+## Observe
+
+1. What do you see in Chrome? Is it what you expected?
 
 1. Switch to VS Code and **change** "World" to your name
 

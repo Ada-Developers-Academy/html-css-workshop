@@ -58,7 +58,7 @@ Try changing the `<title>` tag - what happens?
 
 ---
 
-## Vocab - Elements
+## Syntax - Elements
 
 <!-- https://www.draw.io/#G1flliSXhehhQJ2Et3rkxicG4bTQzxKeMO -->
 
@@ -72,7 +72,7 @@ Content can be anything - even other elements!
 
 ---
 
-## Vocab - Tags
+## Syntax - Tags
 
 <!-- https://www.draw.io/#G1flliSXhehhQJ2Et3rkxicG4bTQzxKeMO -->
 
@@ -86,7 +86,7 @@ Attributes usually need a **value** in quotes
 
 ---
 
-## Vocab - Nesting
+## Syntax - Nesting
 
 @snap[east span-50]
 
@@ -118,7 +118,7 @@ We can **nest** elements inside each other
 
 ---
 
-## Vocab - Self-Closing
+## Syntax - Self-Closing
 
 Some elements have no content and no close tag
 

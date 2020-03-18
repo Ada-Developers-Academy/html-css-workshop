@@ -56,7 +56,6 @@ We'll be focusing on the bottom two layers
 
 ---
 
-
 ## Ada's Approach
 
 - Learning to learn
