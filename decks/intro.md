@@ -6,6 +6,18 @@
 
 ---
 
+## Zoom Meeting
+
+Click on "participants" to open a side window
+
+Should contain buttons for "raise hand", "yes", "no"
+
+Everyone raise your hand and respond "no" now
+
+<p class="fragment">Now lower your hand and clear your response</p>
+
+---
+
 ## Objectives
 
 - Boost your **technical skills** and help your Ada application
@@ -83,17 +95,11 @@ Relax, be yourself, learn something
 
 ---
 
-## Format
-
-9:00 - 12:30
-
-40 minutes of activity, 10 minute break
-
-Agenda is a guideline, only hard rule is we'll be done by 12:30
-
----
-
+@snap[north text-left span-100]
 ## Agenda
+
+This agenda is a guideline, only hard rule is we'll be done by 12:30
+@snapend
 
 @snap[west span-50]
 
@@ -142,16 +148,6 @@ Agenda is a guideline, only hard rule is we'll be done by 12:30
 
 ---
 
-## Who are You?
-
-- Name, pronouns
-
-- Where you're from
-
-- Something you love that has nothing to do with computers
-
----
-
 ## Our Volunteers
 
 - Name, pronouns
@@ -161,3 +157,15 @@ Agenda is a guideline, only hard rule is we'll be done by 12:30
 - Where you're from
 
 - Something you love that has nothing to do with computers
+
+---
+
+## Who are You?
+
+- Name, pronouns
+
+- Where you're from
+
+- Something you love that has nothing to do with computers
+
+We'll use this as an opportunity to practice Zoom breakout rooms. Remember to unmute yourself when you want to talk.
