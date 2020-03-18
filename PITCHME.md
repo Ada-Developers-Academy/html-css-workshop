@@ -1,7 +1,7 @@
 @snap[midpoint span-100]
 # HTML + CSS
 
-### Pre-Ada Workshop
+### Technical Workshop
 @snapend
 
 ---?include=decks/intro.md
