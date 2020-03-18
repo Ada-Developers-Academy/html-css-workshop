@@ -97,32 +97,30 @@ Relax, be yourself, learn something
 @snap[north text-left span-100]
 ## Agenda
 
-This agenda is a guideline, only hard rule is we'll be done by 12:30
+This agenda is a guideline. We will be done by 12:30!
 @snapend
 
 @snap[west span-50]
 
 <span style="color: #EF654A">9:00  - Intro</span>
 
-9:20  - HTML Setup
+9:30  - HTML Setup
 
-9:40  - **Break**
+10:00  - **Break**
 
-9:50  - Tags and Attributes
+10:10  - Tags and Attributes
 
-10:30 - **Break**
+11:00 - **Break**
 
 @snapend
 
 @snap[east span-50 text-left]
 
-10:40 - CSS
+11:10 - CSS
 
-11:20 - Practice
+11:45 - Practice
 
-12:00 - Practice Wrap-up
-
-12:10 - Deployment
+12:15 - Wrap-up
 
 12:30 - **Done!**
 

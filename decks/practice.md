@@ -12,25 +12,23 @@
 
 9:00  - Intro
 
-9:20  - HTML Setup
+9:30  - HTML Setup
 
-9:40  - **Break**
+10:00  - **Break**
 
-9:50  - Tags and Attributes
+10:10  - Tags and Attributes
 
-10:30 - **Break**
+11:00 - **Break**
 
 @snapend
 
 @snap[east span-50 text-left]
 
-10:40 - CSS
+11:10 - CSS
 
-<span style="color: #EF654A">11:20 - Practice</span>
+<span style="color: #EF654A">11:45 - Practice</span>
 
-<span style="color: #EF654A">12:00 - Practice Wrap-up</span>
-
-12:10 - Deployment
+12:15 - Wrap-up
 
 12:30 - **Done!**
 
